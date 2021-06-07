@@ -20,7 +20,7 @@ You can find the code also in [Google COLAB](https://colab.research.google.com/d
 ## Second Assignment
 You can find the code also in [Google COLAB](https://colab.research.google.com/drive/1GjitEkD4H9ivjuYyVEoddp8IO0-yRUZj?usp=sharing) 
 
-```
+
 ## Project Repository
 
 You can find the code also in [Google COLAB](https://colab.research.google.com/drive/1vCpOARb7efL0AeqDpyGje4Tru23hH-CR?usp=sharing)
